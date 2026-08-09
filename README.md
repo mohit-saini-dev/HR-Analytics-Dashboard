@@ -6,7 +6,7 @@ An interactive Power BI dashboard analyzing employee attrition, workforce demogr
 
 ## 📊 Dashboard Preview
 
-![HR Analytics Dashboard](dashboard_preview.png)
+![HR Analytics Dashboard](Screenshot%202026-08-09%20182723.png)
 
 ---
 
