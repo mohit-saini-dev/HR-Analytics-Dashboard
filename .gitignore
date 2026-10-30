@@ -1,0 +1,8 @@
+# OS & System Junk
+.DS_Store
+Thumbs.db
+
+# Power BI Local Backups & Temp Files
+*.pbix.bak
+*.tmp
+~$*.pbix
